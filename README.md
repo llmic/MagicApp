@@ -10,3 +10,5 @@ All it consists with is A Jump to other apps , A Strange music(Not included on t
 
 
 Thats all.
+
+:) Written on 18th,July 2024
