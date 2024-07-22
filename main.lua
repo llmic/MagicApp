@@ -133,10 +133,10 @@ function main()
     end})
 end
 layout={LinearLayout,layout_width="match",layout_height="match",gravity="center",Orientation=1,
-  {TextView,text="请同意一下权限",},
+  {TextView,text="Permission needed",},
   {LinearLayout,layout_width="wrap",layout_height="wrap",gravity="center",layout_margin="10dp",
     {CircleImageView,layout_height="match",src="HeadImg.jpg",},
-    {TextView,text="  清汀琉璃",textColor="#FF1B92F3"},}}
+    {TextView,text="  QingT",textColor="#FF1B92F3"},}}
 activity.setContentView(loadlayout(layout))
 task(1,function()
   main()
